@@ -1,0 +1,1 @@
+var elementoTitulo = document.getElementById("titulo");
